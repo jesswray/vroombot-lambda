@@ -1,0 +1,23 @@
+{
+  "name": "vroombot_lambda",
+  "version": "1.0.0",
+  "description": "vroombot lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrayjs/vroombot-lambda.git"
+  },
+  "keywords": [
+    "aws-lambda",
+    "nodejs"
+  ],
+  "author": "Jessica Wray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrayjs/vroombot-lambda/issues"
+  },
+  "homepage": "https://github.com/wrayjs/vroombot-lambda#readme"
+}
